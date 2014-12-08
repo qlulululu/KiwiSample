@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F2A3A60-D548-40DD-B1D9-BB2996E5773A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KiwiSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC89A542E078FC19F09CC023BD8EFBAA364CE724</key>
+		<string>https://github.com/qlulululu/KiwiSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KiwiSample.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC89A542E078FC19F09CC023BD8EFBAA364CE724</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qlulululu/KiwiSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC89A542E078FC19F09CC023BD8EFBAA364CE724</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC89A542E078FC19F09CC023BD8EFBAA364CE724</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KiwiSample2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

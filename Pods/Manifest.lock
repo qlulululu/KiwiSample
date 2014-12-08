@@ -1,0 +1,20 @@
+PODS:
+  - Kiwi (2.2.3):
+    - Kiwi/SenTestingKit (= 2.2.3)
+  - Kiwi/ARC (2.2.3)
+  - Kiwi/NonARC (2.2.3)
+  - Kiwi/SenTestingKit (2.2.3):
+    - Kiwi/ARC
+    - Kiwi/NonARC
+  - Kiwi/XCTest (2.2.3):
+    - Kiwi/ARC
+    - Kiwi/NonARC
+
+DEPENDENCIES:
+  - Kiwi
+  - Kiwi/XCTest
+
+SPEC CHECKSUMS:
+  Kiwi: 7b9bc7294de746357213067a1df49cc0a59384e8
+
+COCOAPODS: 0.35.0.rc2
